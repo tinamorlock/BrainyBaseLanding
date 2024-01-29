@@ -12,15 +12,25 @@ html {
 
 h1 {
   font-size: 3rem;
-  color: #E2DBDB;
+  color: deeppink;
+  box-shadow: 4px 4px 2px black;
+  background-color: rgba(0, 191, 255, .5);
 }
 
 hr {
   margin: 20px auto;
-  color: #F05F44;
-  border: 3px solid #F05F44;
+  color: deeppink;
+  border: 3px solid deeppink;
   max-width: 65px;
   opacity: 1;
+}
+
+.buffer {
+  height: 10rem;
+}
+
+.buffer2 {
+  height:10rem;
 }
 
 .btn {
@@ -33,16 +43,16 @@ hr {
 }
 
 .btn-primary {
-  background-color: #F05F44;
-  border-color: #F05F44;
-  --bs-btn-hover-bg: #ee4b08;
-  --bs-btn-hover-border-color: #ee4b08;
+  background-color: deeppink;
+  border-color: deeppink;
+  --bs-btn-hover-bg: deeppink;
+  --bs-btn-hover-border-color: deeppink;
 
 }
 
 .btn-primary:hover {
-  background-color: #EE4B08;
-  border-color: #EE4B08;
+  background-color: hotpink;
+  border-color: hotpink;
   border-width: 4px;
 }
 
