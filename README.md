@@ -4,4 +4,5 @@ This is a landing page coded with HTML and CSS using Bootstrap. It links to an e
 
 ## Screenshot
 
-![image](https://github.com/tinamorlock/BrainyBaseLanding/assets/117326004/e5da31b6-7c6f-47b1-8d88-bc3bf95d9fe3)
+![image](https://github.com/tinamorlock/BrainyBaseLanding/assets/117326004/dc558336-b0cd-4e45-a776-fb35b8a2d978)
+
