@@ -12,9 +12,11 @@ html {
 
 h1 {
   font-size: 3rem;
-  color: deeppink;
-  box-shadow: 4px 4px 2px black;
-  background-color: rgba(0, 191, 255, .5);
+  color: yellowgreen;
+  box-shadow: 2px 2px 1px black;
+  background-color: rgba(255, 20, 147, .75);
+  width: auto;
+  display: inline-block;
 }
 
 hr {
@@ -40,6 +42,7 @@ hr {
 
 .btn-xl {
   padding: 1rem 2rem;
+  box-shadow: 2px 2px 1px black;
 }
 
 .btn-primary {
@@ -47,6 +50,7 @@ hr {
   border-color: deeppink;
   --bs-btn-hover-bg: deeppink;
   --bs-btn-hover-border-color: deeppink;
+  color: black;
 
 }
 
@@ -54,5 +58,6 @@ hr {
   background-color: hotpink;
   border-color: hotpink;
   border-width: 4px;
+  color: black;
 }
 
